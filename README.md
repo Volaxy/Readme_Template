@@ -4,7 +4,7 @@ Curso da Alura sobre BLABLABLA
 
 ## Objetivo Final &#x1F3AF;
 
-Objetivo resumido
+OBJETIVO_RESUMIDO
 
 URL do curso -> [TÍTULO_DO_CURSO](LINK_DO_CURSO)
 
